@@ -141,10 +141,12 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
+<img width="1890" height="896" alt="image" src="https://github.com/user-attachments/assets/7a24b97e-9c81-4a87-9ff4-00a34956120a" />
 
 
 
 ### Medal Tally
+<img width="1870" height="882" alt="image" src="https://github.com/user-attachments/assets/4eaa5de2-508e-4939-b17d-3d29094b0efe" />
 
 
 ### Country Analysis
@@ -154,6 +156,7 @@ streamlit run app.py
 
 ### Prediction Page
 
+<img width="1903" height="801" alt="image" src="https://github.com/user-attachments/assets/727e67ba-2731-45d6-a028-078817a23357" />
 
 ---
 
