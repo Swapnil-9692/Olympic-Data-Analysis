@@ -141,19 +141,19 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-(Add Screenshot)
+
+
 
 ### Medal Tally
-(Add Screenshot)
+
 
 ### Country Analysis
-(Add Screenshot)
+
 
 ### Athlete Analysis
-(Add Screenshot)
 
 ### Prediction Page
-(Add Screenshot)
+
 
 ---
 
